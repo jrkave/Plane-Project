@@ -23,4 +23,4 @@ Open the project in your preferred IDE and run the Plane.java file to initialize
 Plane.java: This file contains the Plane class which encapsulates the attributes and methods necessary to create and manipulate a plane object. It includes methods to fly the plane, change its speed, refuel, and retrieve the current status of the plane.
 
 ## Credit
-The project was created for coursework at GRCC for Computer Science II. The testing files included are the result of work done by the CIS professors at CIS and are not my own. 
+The project was created for coursework at GRCC for Computer Science II. The testing files included are the result of work done by the CIS professors at GRCC and are not my own. 
