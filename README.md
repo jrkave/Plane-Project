@@ -1,4 +1,4 @@
-# Plane-Project
+# Simulated "Plane" Project
 ## Description
 The Plane Project is a simple Java application that simulates the structure and functionalities of a plane. It models the essential characteristics and operations such as the plane's capacity, speed, and fuel level, providing a blueprint to represent a plane in a programmatic context. 
 
